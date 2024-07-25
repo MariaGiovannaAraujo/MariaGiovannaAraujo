@@ -1,6 +1,7 @@
-### **Olá, eu me chamo Maria Giovanna!** :heart:
-# Seja bem vindo ao meu perfil Github!
+# **Olá, eu me chamo Maria Giovanna!** :sparkling_heart:
+### Seja bem vindo ao meu perfil Github!
 :pushpin: Graduanda em Gestão da Tecnologia da Informação
+
 
 
 <!---
