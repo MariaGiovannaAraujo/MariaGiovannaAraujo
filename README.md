@@ -2,6 +2,8 @@
 ### Seja bem vindo ao meu perfil Github!
 :pushpin: Graduanda em Gestão da Tecnologia da Informação
 
+## Estou aprendendo 
+<i class="devicon-java-plain"></i> 
 
 
 <!---
